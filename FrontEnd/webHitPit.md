@@ -19,6 +19,9 @@ autoGroup-8: 踩坑篇
   记录记录自己踩的坑
 :::
 
+<div align=center>
+<img src="https://shinoimg.yyshino.top/img/202210191039385.gif" width="50%" height="50%" >
+</div>
 <!-- more -->
 
 
